@@ -32,8 +32,6 @@ shipping entered
 
 * Create Folder structure
 
-* Create DSL file to execute all tests file in root of the directory
-
 * Create PageObjects and group the tests
 
 * Parameterize all the tests to pick-up data from a yaml file.
